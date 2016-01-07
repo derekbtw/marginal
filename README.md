@@ -6,6 +6,12 @@ Website and Demo: http://labs.struck.io/marginal
 It's pretty simple, really. The class names are easy to remember and are very short. If you want a right margin
 of 50 just use <code>.mr50</code>, if you want a negative left margin of 25 use <code>.ml-25</code>. You can do
 the same thing with padding as well using something like <code>.pr95</code>.
+
+## Quick Start
+
+```html
+<link rel="stylesheet" href="http://cdn.struck.io/marginal/1.0/marginal.min.css" />
+```
       
 ## Useage
 

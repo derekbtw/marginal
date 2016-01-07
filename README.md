@@ -12,6 +12,7 @@ the same thing with padding as well using something like <code>.pr95</code>.
 ```html
 <!-- minified -->
 <link rel="stylesheet" href="http://cdn.struck.io/marginal/1.0/marginal.min.css" />
+
 <!-- non-minified -->
 <link rel="stylesheet" href="http://cdn.struck.io/marginal/1.0/marginal.css" />
 ```

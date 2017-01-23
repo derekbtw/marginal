@@ -310,36 +310,6 @@ the same thing with padding as well using something like <code>.pr95</code>.
 .pt95 {padding-top:95px;}
 .pt100 {padding-top:100px;}
 
-/* negative padding top */
-.pt-1 {padding-top:-1px;}
-.pt-2 {padding-top:-2px;}
-.pt-3 {padding-top:-3px;}
-.pt-4 {padding-top:-4px;}
-.pt-5 {padding-top:-5px;}
-.pt-6 {padding-top:-6px;}
-.pt-7 {padding-top:-7px;}
-.pt-8 {padding-top:-8px;}
-.pt-9 {padding-top:-9px;}
-.pt-10 {padding-top:-10px;}
-.pt-15 {padding-top:-15px;}
-.pt-20 {padding-top:-20px;}
-.pt-25 {padding-top:-25px;}
-.pt-30 {padding-top:-30px;}
-.pt-35 {padding-top:-35px;}
-.pt-40 {padding-top:-40px;}
-.pt-45 {padding-top:-45px;}
-.pt-50 {padding-top:-50px;}
-.pt-55 {padding-top:-55px;}
-.pt-60 {padding-top:-60px;}
-.pt-65 {padding-top:-65px;}
-.pt-70 {padding-top:-70px;}
-.pt-75 {padding-top:-75px;}
-.pt-80 {padding-top:-80px;}
-.pt-85 {padding-top:-85px;}
-.pt-90 {padding-top:-90px;}
-.pt-95 {padding-top:-95px;}
-.pt-100 {padding-top:-100px;}
-
 /* padding right */
 .pr1 {padding-right:1px;}
 .pr2 {padding-right:2px;}
@@ -369,36 +339,6 @@ the same thing with padding as well using something like <code>.pr95</code>.
 .pr90 {padding-right:90px;}
 .pr95 {padding-right:95px;}
 .pr100 {padding-right:100px;}
-
-/* negative padding right */
-.pr-1 {padding-right:-1px;}
-.pr-2 {padding-right:-2px;}
-.pr-3 {padding-right:-3px;}
-.pr-4 {padding-right:-4px;}
-.pr-5 {padding-right:-5px;}
-.pr-6 {padding-right:-6px;}
-.pr-7 {padding-right:-7px;}
-.pr-8 {padding-right:-8px;}
-.pr-9 {padding-right:-9px;}
-.pr-10 {padding-right:-10px;}
-.pr-15 {padding-right:-15px;}
-.pr-20 {padding-right:-20px;}
-.pr-25 {padding-right:-25px;}
-.pr-30 {padding-right:-30px;}
-.pr-35 {padding-right:-35px;}
-.pr-40 {padding-right:-40px;}
-.pr-45 {padding-right:-45px;}
-.pr-50 {padding-right:-50px;}
-.pr-55 {padding-right:-55px;}
-.pr-60 {padding-right:-60px;}
-.pr-65 {padding-right:-65px;}
-.pr-70 {padding-right:-70px;}
-.pr-75 {padding-right:-75px;}
-.pr-80 {padding-right:-80px;}
-.pr-85 {padding-right:-85px;}
-.pr-90 {padding-right:-90px;}
-.pr-95 {padding-right:-95px;}
-.pr-100 {padding-right:-100px;}
 
 /* padding bottom */
 .pb1 {padding-bottom:1px;}
@@ -430,36 +370,6 @@ the same thing with padding as well using something like <code>.pr95</code>.
 .pb95 {padding-bottom:95px;}
 .pb100 {padding-bottom:100px;}
 
-/* negative padding bottom */
-.pb-1 {padding-bottom:-1px;}
-.pb-2 {padding-bottom:-2px;}
-.pb-3 {padding-bottom:-3px;}
-.pb-4 {padding-bottom:-4px;}
-.pb-5 {padding-bottom:-5px;}
-.pb-6 {padding-bottom:-6px;}
-.pb-7 {padding-bottom:-7px;}
-.pb-8 {padding-bottom:-8px;}
-.pb-9 {padding-bottom:-9px;}
-.pb-10 {padding-bottom:-10px;}
-.pb-15 {padding-bottom:-15px;}
-.pb-20 {padding-bottom:-20px;}
-.pb-25 {padding-bottom:-25px;}
-.pb-30 {padding-bottom:-30px;}
-.pb-35 {padding-bottom:-35px;}
-.pb-40 {padding-bottom:-40px;}
-.pb-45 {padding-bottom:-45px;}
-.pb-50 {padding-bottom:-50px;}
-.pb-55 {padding-bottom:-55px;}
-.pb-60 {padding-bottom:-60px;}
-.pb-65 {padding-bottom:-65px;}
-.pb-70 {padding-bottom:-70px;}
-.pb-75 {padding-bottom:-75px;}
-.pb-80 {padding-bottom:-80px;}
-.pb-85 {padding-bottom:-85px;}
-.pb-90 {padding-bottom:-90px;}
-.pb-95 {padding-bottom:-95px;}
-.pb-100 {padding-bottom:-100px;}
-
 /* padding left */
 .pl1 {padding-left:1px;}
 .pl2 {padding-left:2px;}
@@ -489,36 +399,6 @@ the same thing with padding as well using something like <code>.pr95</code>.
 .pl90 {padding-left:90px;}
 .pl95 {padding-left:95px;}
 .pl100 {padding-left:100px;}
-
-/* negative padding left */
-.pl-1 {padding-left:-1px;}
-.pl-2 {padding-left:-2px;}
-.pl-3 {padding-left:-3px;}
-.pl-4 {padding-left:-4px;}
-.pl-5 {padding-left:-5px;}
-.pl-6 {padding-left:-6px;}
-.pl-7 {padding-left:-7px;}
-.pl-8 {padding-left:-8px;}
-.pl-9 {padding-left:-9px;}
-.pl-10 {padding-left:-10px;}
-.pl-15 {padding-left:-15px;}
-.pl-20 {padding-left:-20px;}
-.pl-25 {padding-left:-25px;}
-.pl-30 {padding-left:-30px;}
-.pl-35 {padding-left:-35px;}
-.pl-40 {padding-left:-40px;}
-.pl-45 {padding-left:-45px;}
-.pl-50 {padding-left:-50px;}
-.pl-55 {padding-left:-55px;}
-.pl-60 {padding-left:-60px;}
-.pl-65 {padding-left:-65px;}
-.pl-70 {padding-left:-70px;}
-.pl-75 {padding-left:-75px;}
-.pl-80 {padding-left:-80px;}
-.pl-85 {padding-left:-85px;}
-.pl-90 {padding-left:-90px;}
-.pl-95 {padding-left:-95px;}
-.pl-100 {padding-left:-100px;}
 ```
 
 Website and Demo: http://labs.struck.io/marginal

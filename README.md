@@ -40,6 +40,66 @@ the same thing with padding as well using something like <code>.pr95</code>.
 ## CSS
 
 ```css
+/* margin */
+.m1 {margin:1px;}
+.m2 {margin:2px;}
+.m3 {margin:3px;}
+.m4 {margin:4px;}
+.m5 {margin:5px;}
+.m6 {margin:6px;}
+.m7 {margin:7px;}
+.m8 {margin:8px;}
+.m9 {margin:9px;}
+.m10 {margin:10px;}
+.m15 {margin:15px;}
+.m20 {margin:20px;}
+.m25 {margin:25px;}
+.m30 {margin:30px;}
+.m35 {margin:35px;}
+.m40 {margin:40px;}
+.m45 {margin:45px;}
+.m50 {margin:50px;}
+.m55 {margin:55px;}
+.m60 {margin:60px;}
+.m65 {margin:65px;}
+.m70 {margin:70px;}
+.m75 {margin:75px;}
+.m80 {margin:80px;}
+.m85 {margin:85px;}
+.m90 {margin:90px;}
+.m95 {margin:95px;}
+.m100 {margin:100px;}
+
+/* negative margin */
+.m-1 {margin:-1px;}
+.m-2 {margin:-2px;}
+.m-3 {margin:-3px;}
+.m-4 {margin:-4px;}
+.m-5 {margin:-5px;}
+.m-6 {margin:-6px;}
+.m-7 {margin:-7px;}
+.m-8 {margin:-8px;}
+.m-9 {margin:-9px;}
+.m-10 {margin:-10px;}
+.m-15 {margin:-15px;}
+.m-20 {margin:-20px;}
+.m-25 {margin:-25px;}
+.m-30 {margin:-30px;}
+.m-35 {margin:-35px;}
+.m-40 {margin:-40px;}
+.m-45 {margin:-45px;}
+.m-50 {margin:-50px;}
+.m-55 {margin:-55px;}
+.m-60 {margin:-60px;}
+.m-65 {margin:-65px;}
+.m-70 {margin:-70px;}
+.m-75 {margin:-75px;}
+.m-80 {margin:-80px;}
+.m-85 {margin:-85px;}
+.m-90 {margin:-90px;}
+.m-95 {margin:-95px;}
+.m-100 {margin:-100px;}
+
 /* margin top */
 .mt1 {margin-top:1px;}
 .mt2 {margin-top:2px;}
@@ -279,6 +339,36 @@ the same thing with padding as well using something like <code>.pr95</code>.
 .ml-90 {margin-left:-90px;}
 .ml-95 {margin-left:-95px;}
 .ml-100 {margin-left:-100px;}
+
+/* padding */
+.p1 {padding:1px;}
+.p2 {padding:2px;}
+.p3 {padding:3px;}
+.p4 {padding:4px;}
+.p5 {padding:5px;}
+.p6 {padding:6px;}
+.p7 {padding:7px;}
+.p8 {padding:8px;}
+.p9 {padding:9px;}
+.p10 {padding:10px;}
+.p15 {padding:15px;}
+.p20 {padding:20px;}
+.p25 {padding:25px;}
+.p30 {padding:30px;}
+.p35 {padding:35px;}
+.p40 {padding:40px;}
+.p45 {padding:45px;}
+.p50 {padding:50px;}
+.p55 {padding:55px;}
+.p60 {padding:60px;}
+.p65 {padding:65px;}
+.p70 {padding:70px;}
+.p75 {padding:75px;}
+.p80 {padding:80px;}
+.p85 {padding:85px;}
+.p90 {padding:90px;}
+.p95 {padding:95px;}
+. p100 {padding:100px;}
 
 /* padding top */
 .pt1 {padding-top:1px;}
